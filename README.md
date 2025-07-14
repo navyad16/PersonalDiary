@@ -1,0 +1,2 @@
+- Built a command-line diary tool with features to write, save, view, and search personal entries using CSV for persistent storage.
+- Incorporated timestamping, entry labeling, and keyword-based search for user-friendly journaling.
